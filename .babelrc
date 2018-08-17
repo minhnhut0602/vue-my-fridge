@@ -1,0 +1,17 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "useBuiltIns": "entry",
+        "forceAllTransforms": true,
+        "ignoreBrowserslistConfig": false,
+        "modules": false,
+        "debug": false
+      }
+    ]
+  ],
+  "plugins": [
+    "@babel/plugin-syntax-dynamic-import"
+  ]
+}

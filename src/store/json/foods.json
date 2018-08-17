@@ -1,0 +1,52 @@
+[
+  {
+    "name": "broccili",
+    "type": "produce",
+    "expirationDate": "09/15/2016"
+  },
+  {
+    "name": "tomato 1",
+    "type": "produce",
+    "expirationDate": "7/15/2018"
+  },
+  {
+    "name": "tomato 2",
+    "type": "produce",
+    "expirationDate": "7/15/2018"
+  },
+  {
+    "name": "tomato 3",
+    "type": "produce",
+    "expirationDate": "12/15/2018"
+  },
+  {
+    "name": "milk",
+    "type": "diary",
+    "expirationDate": "05/21/2014"
+  },
+  {
+    "name": "cheese",
+    "type": "diary",
+    "expirationDate": "07/04/2015"
+  },
+  {
+    "name": "cheese 1",
+    "type": "diary",
+    "expirationDate": "07/04/2015"
+  },
+  {
+    "name": "cheese 2",
+    "type": "diary",
+    "expirationDate": "07/04/2015"
+  },
+  {
+    "name": "cheese 3",
+    "type": "diary",
+    "expirationDate": "07/04/2018"
+  },
+  {
+    "name": "cheese 5",
+    "type": "diary",
+    "expirationDate": "07/04/2019"
+  }
+]
