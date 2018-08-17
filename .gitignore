@@ -26,6 +26,4 @@ nbproject
 Thumbs.db
 
 # Folders to ignore
-dist/*
-!dist/_redirects
 node_modules
