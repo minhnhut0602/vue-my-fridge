@@ -1,0 +1,11 @@
+{
+  "name": "vue-white-label",
+  "version": "0.1.0",
+  "description": "Node server for Heroku",
+  "author": "Nhut Phan",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "npm install express connect-history-api-fallback"
+  }
+}

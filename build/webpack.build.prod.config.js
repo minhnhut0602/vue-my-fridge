@@ -40,7 +40,7 @@ const config = merge(baseWebpackConfig, {
   devtool: sourceMap ? `cheap-module-eval-source-map` : undefined,
   plugins: [
     new webpack.DefinePlugin({
-      'process.env': require('../config/docker.env')
+      'process.env': require('../config/prod.env')
     }),
     new VueLoaderPlugin(),
     new HtmlWebpackPlugin({

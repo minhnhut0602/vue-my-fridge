@@ -9,7 +9,6 @@ module.exports = {
     env: require('./prod.env'),
     env_dev: require('./dev.env'),
     env_prod: require('./prod.env'),
-    env_docker: require('./docker.env'),
     index: path.resolve(__dirname, '../dist/index.html'),
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
