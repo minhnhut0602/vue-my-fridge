@@ -1,4 +1,4 @@
-# Aduro Web Plaftform is setting up a Vue.js Project with webpack 4 and Babel 7
+# Web Plaftform is setting up a Vue.js Project with webpack 4 and Babel 7
 
 ## Build Setup
 
